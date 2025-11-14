@@ -1,0 +1,13 @@
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\bin\Debug\QLKS-Dangnhap.exe.config
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\bin\Debug\QLKS-Dangnhap.exe
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\bin\Debug\QLKS-Dangnhap.pdb
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.csproj.AssemblyReference.cache
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS_Dangnhap.FrmDangKy.resources
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS_Dangnhap.Properties.Resources.resources
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.csproj.GenerateResource.cache
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.csproj.CoreCompileInputs.cache
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.exe
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.pdb
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS-Dangnhap.exe.config
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS_Dangnhap.GUI.FrDangnhap.resources
+D:\.net\dat\QLKS_Dangnhap\QLKS-Dangnhap\obj\Debug\QLKS_Dangnhap.GUI.Main.resources

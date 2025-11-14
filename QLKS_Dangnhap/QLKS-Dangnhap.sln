@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36518.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QLKS-Dangnhap", "QLKS-Dangnhap\QLKS-Dangnhap.csproj", "{9DEB349C-4DAC-43E4-85A4-0B0F0A103A59}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "..\..\Login\Login\Login.csproj", "{BB41FA67-7E6A-4DBA-B6EE-C53BA339E22E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DEB349C-4DAC-43E4-85A4-0B0F0A103A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEB349C-4DAC-43E4-85A4-0B0F0A103A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEB349C-4DAC-43E4-85A4-0B0F0A103A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEB349C-4DAC-43E4-85A4-0B0F0A103A59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB41FA67-7E6A-4DBA-B6EE-C53BA339E22E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB41FA67-7E6A-4DBA-B6EE-C53BA339E22E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB41FA67-7E6A-4DBA-B6EE-C53BA339E22E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB41FA67-7E6A-4DBA-B6EE-C53BA339E22E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCA6C87-6750-477F-9D8D-8D5EB4D63B23}
+	EndGlobalSection
+EndGlobal
